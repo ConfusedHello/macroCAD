@@ -24,6 +24,9 @@ And moved onto creating a sketch
 Then a bit more work later, the final case
 ![Cross section of the case](/assets/Case_Crosssection.png)
 
+Final case design (render coming soon!)
+![Image of the macropad](/assets/Case_Model.png)
+
 
 ## Bill of materials
 | Component                                 | Quantity |
