@@ -29,14 +29,15 @@ Final case design (render coming soon!)
 
 
 ## Bill of materials
-| Component                                 | Quantity |
-|-------------------------------------------|----------|
-| SMD Seeed Studio XIAO RP2040              | 1        |
-| Gateron Milky Yellows Cherry MX Switches  | 10       |
-| CherryMX 1.00u Kailh Sockets              | 10       |
-| 1N4148W Diodes (SOD-123)                  | 10       |
-| Brass M2 Screws (approx 5mm)              | 10       |
-| M2 Heat inserts (approx 3mm)              | 10       |
+| Component                                 | Quantity | Aliexpress |
+|-------------------------------------------|----------|------------|
+| 2L PCB (JLCPCB with cheap shipping)       | 1        | $3.49      |
+| SMD Seeed Studio XIAO RP2040              | 1        | $5.64      |
+| Gateron Milky Yellows Cherry MX Switches  | 10       | ~$3.86     |
+| CherryMX 1.00u Kailh Sockets              | 10       | $2.89      |
+| 1N4148W Diodes (SOD-123)                  | 10       | $1.09      |
+| Brass M2 Screws (approx 5mm)              | 10       | $0.97      |
+| M2 Heat inserts (approx 3mm)              | 10       | $0.97      |
 
 
 ## Acknowledgements
