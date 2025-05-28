@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../production/",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "macroCAD.step",
