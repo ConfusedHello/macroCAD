@@ -1,6 +1,8 @@
 # MacroCAD
 My own macropad made for CAD! Made for Hackclub's Highway/Hackpad event.
 
+<img src="/assets/buildcomplete.jpg" alt="Hackpad" width=75%></img>
+
 For this macropad, there is a function row at the bottom to switch "layers", ie. extra buttons!!
 
 
@@ -10,7 +12,7 @@ The PCB was designed entirely in KiCad. Here's an image of the schematic.
 
 And an image of the PCB!
 ![Image of the macropad's pcb](/assets/PCB.png)
-
+<img src="/assets/pcbsoldered.jpg" alt="Hackpad" width=75%></img>
 
 ## The Case
 First time using Fusion360! Went pretty well actually. Here's what we went with.
